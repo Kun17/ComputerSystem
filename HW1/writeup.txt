@@ -1,0 +1,17 @@
+COMP 321 Project 1: Factors
+<Insert your name and NetID.>
+
+---(Do not write lines of text that exceed the width of this line.)------------
+
+DESIGN DESCRIPTION
+
+<Insert a description of your solution in English.  Describe any design
+decisions that you made, such as the algorithms that you used.  Do not submit
+pseudo-code.> 
+
+TESTING STRATEGY
+
+<Insert a detailed description of your testing strategy: at a minimum
+you should explain how you tested your code, how you selected your inputs,
+what those inputs were, and why you believe those inputs were sufficient
+to test your code.>
